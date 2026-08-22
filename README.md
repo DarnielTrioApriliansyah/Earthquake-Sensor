@@ -174,7 +174,7 @@ The project report includes experimental results showing the sensor circuit in b
 ### Sensor ON
 
 <p align="center">
-  <img src="images/Sensor Nyalaaa.jpg" width="500">
+  <img src="images/Sensor nyalaaa.jpg" width="500">
 </p>
 
 The sensor circuit is active and the indicator components are turned on.
